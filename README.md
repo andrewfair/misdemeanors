@@ -1,2 +1,2 @@
 # misdemeanors
-repo for USI I social impact project
+USI I social impact project
